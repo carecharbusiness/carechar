@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="downloads/proyecto 2026/Carlos_Github..png">
+<img align="right" alt="Coding" width="300" src="html/imagenes/prueba.jpg">
 
 ### 🚀 Sobre mí
 
