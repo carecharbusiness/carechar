@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="300" src="html/imagenes/prueba.jpg">
 <h1 align="center">Hola 👋, soy Carlos Chacón</h1>
 
 <h3 align="center">💻 Apasionado por la programación, automatización y análisis de datos</h3>
