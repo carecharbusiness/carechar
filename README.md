@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/carecharbusiness/carechar/main/Carlos_Github.png  width="200">
-
-💡 Esto permite:
-
+<img src="https://github.com/carecharbusiness/carechar/blob/main/Carlos_Github.png width="200">
 https://raw.githubusercontent.com/carecharbusiness/main/Carlos_Github.png" width="200" align="right"
 
 <h1 align="center">Hola 👋, soy Carlos Chacón</h1>
