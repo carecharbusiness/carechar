@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/carecharbusiness/main/Carlos_Github.png" width
 
 ---
 
-<img align="right" alt="Coding" width="300" src="html/imagenes/prueba.jpg">
+<img align="right" alt="Coding" width="200" src="html/imagenes/prueba.jpg">
 
 ### 🚀 Sobre mí
 
