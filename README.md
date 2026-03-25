@@ -1,6 +1,4 @@
-<img src="https://github.com/carecharbusiness/carechar/blob/main/Carlos_Github.png width="200">
-https://raw.githubusercontent.com/carecharbusiness/main/Carlos_Github.png" width="200" align="right"
-
+<img align="right" alt="Coding" width="200" src="https://github.com/carecharbusiness/carechar/blob/main/Carlos_Github.pnb" width="200">
 <h1 align="center">Hola 👋, soy Carlos Chacón</h1>
 
 <h3 align="center">💻 Apasionado por la programación, automatización y análisis de datos</h3>
