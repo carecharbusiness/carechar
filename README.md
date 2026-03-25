@@ -1,4 +1,6 @@
-![Mi foto]<https://raw.githubusercontent.com/carecharbusiness/carechar/main/Carlos_Github.png  width="200">
+<img src="https://raw.githubusercontent.com/carecharbusiness/carechar/main/Carlos_Github.png  width="200">
+
+💡 Esto permite:
 
 https://raw.githubusercontent.com/carecharbusiness/main/Carlos_Github.png" width="200" align="right"
 
