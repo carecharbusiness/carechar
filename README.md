@@ -1,4 +1,4 @@
-![Mi foto](https://raw.githubusercontent.com/carecharbusiness/carechar/main/Carlos_Github.png)
+![Mi foto](https://raw.githubusercontent.com/carecharbusiness/carechar/main/Carlos_Github.png  width="200")
 
 https://raw.githubusercontent.com/carecharbusiness/main/Carlos_Github.png" width="200" align="right"
 
