@@ -1,3 +1,5 @@
+![Mi foto](https://raw.githubusercontent.com/carecharbusiness/carechar/main/Carlos_Github.png)
+
 https://raw.githubusercontent.com/carecharbusiness/main/Carlos_Github.png" width="200" align="right"
 
 <h1 align="center">Hola 👋, soy Carlos Chacón</h1>
