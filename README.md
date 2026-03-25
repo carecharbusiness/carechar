@@ -1,4 +1,4 @@
-<img  alt="Coding" width="300" src="https://github.com/carecharbusiness/carechar/blob/main/Carlos_Github.png">
+<img  alt="Coding" width="300" src="assets/Carlos_Github.png" width="200"">
 
 <h1 align="center">Hola 👋, soy Carlos Chacón</h1>
 
